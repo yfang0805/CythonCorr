@@ -1,0 +1,2 @@
+cd /home/analyst02/MyWorkspace/data/projectData/Sharefolder/sharefolder0/team/fy/submit/corr
+python setup.py build_ext --inplace
